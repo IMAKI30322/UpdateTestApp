@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    Uri="https://partskinki.co.jp/itworking/uploads/application/AutoUpdate/UpdateTestApp.appinstaller"
+    Version="1.0.1.0"
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+
+    <MainBundle
+        Name="ad2aab01-11c8-4348-bb06-9aeb70a21c35"
+        Version="1.0.1.0"
+        Publisher="CN=HondaPartsKansai"
+        Uri="https://drive.usercontent.google.com/download?id=18LSPAW0JbDY8RXdAnY127B_U_PMF_hxu&export=download" />
+
+    <UpdateSettings>
+        <OnLaunch HoursBetweenUpdateChecks="0" />
+    </UpdateSettings>
+
+</AppInstaller>
