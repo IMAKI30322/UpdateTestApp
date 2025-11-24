@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     Uri="https://imaki30322.github.io/UpdateTestApp/UpdateTestApp.appinstaller"
-    Version="1.0.0.0"
+    Version="1.0.1.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 
   <MainBundle
       Name="ad2aab01-11c8-4348-bb06-9aeb70a21c35"
-      Version="1.0.0.0"
+      Version="1.0.1.0"
       Publisher="CN=HondaPartsKansai"
-      Uri="https://github.com/IMAKI30322/UpdateTestApp/releases/download/v1.0.0/UpdateTestApp_1.0.0.0_AnyCPU.msixbundle" />
+      Uri="https://github.com/IMAKI30322/UpdateTestApp/releases/download/v1.0.0/UpdateTestApp_1.0.1.0_AnyCPU.msixbundle" />
 
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
   </UpdateSettings>
 </AppInstaller>
+
 
 
