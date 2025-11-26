@@ -10,9 +10,10 @@
 		Publisher="CN=HondaPartsKansai"
       Uri="https://github.com/IMAKI30322/UpdateTestApp/releases/download/v1.0.0/UpdateTestApp_1.0.7.0_AnyCPU.msixbundle" />
   <UpdateSettings>
-    <OnLaunch HoursBetweenUpdateChecks="0" />
+    <OnLaunch HoursBetweenUpdateChecks="0" IncludePrerelease="false" />
   </UpdateSettings>
 </AppInstaller>
+
 
 
 
